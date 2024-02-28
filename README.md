@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Tanishk Malhotra. (19, Pune MH)<br>Currently pursuing Data Science from IIT Madras.<br>I love working with 🐍 Python,</> HTML,🎨CSS & 💻Linux.<br>Valorant addict🎮<br>I am currently learning AWS & Azure.<br>Fun Fact: 💪gym freak.<br>Feel free to connect with me, up for collaborations <3.
+Hi, I am Tanishk Malhotra. (19, Pune MH)<br>Currently pursuing Data Science from IIT Madras.<br>I love working with 🐍 Python,</> HTML,🎨CSS & 💻Linux.<br>Valorant addict🎮<br>Fun Fact: 💪gym freak.<br>Feel free to connect with me, up for collaborations <3.
 
 
 ## 🌐 Socials:
